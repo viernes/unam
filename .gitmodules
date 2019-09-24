@@ -1,3 +1,6 @@
 [submodule "multi_branch"]
 	path = multi_branch
 	url = git@github.com:viernes/multi_branch.git
+[submodule "presupuestos"]
+	path = presupuestos
+	url = git@gitlab.com:xmarts/presupuestos.git
